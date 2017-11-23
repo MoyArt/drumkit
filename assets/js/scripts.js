@@ -25,6 +25,5 @@ keys.forEach(function(e){
         this.classList.remove('playing');
     });
 })
-
 window.addEventListener('keydown', playSound);
 
